@@ -1,4 +1,7 @@
-DOMAIN,mesu.apple.com
-DOMAIN,gdmf.apple.com
-DOMAIN,updates-http.cdn-apple.com
-DOMAIN,xp.apple.com
+# Major macOS/iOS update checkers and download delivery
+gdmf.apple.com
+mesu.apple.com
+appldnld.apple.com
+updates-http.apple.com
+://cdn-apple.com
+xp.apple.com
